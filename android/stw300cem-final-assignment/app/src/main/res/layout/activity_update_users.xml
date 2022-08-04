@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Controllers.UpdateUsers"
+    android:background="@drawable/update1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp">
+
+
+        <TextView
+            android:id="@+id/textupdate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Update Information"
+            android:textSize="40sp"
+            android:textAlignment="center"
+            android:fontFamily="sans-serif-condensed"
+            android:textColor="#162758"
+            android:textStyle="bold"
+            android:textAllCaps="true"/>
+
+        <TextView
+            android:id="@+id/textfullname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Full Name:"
+            android:textStyle="bold"
+            android:layout_below="@id/textupdate"
+            />
+
+        <TextView
+            android:id="@+id/textemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Email:"
+            android:textStyle="bold"
+            android:layout_below="@id/edittextfullname"/>
+
+        <TextView
+            android:id="@+id/textphonenumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Phonenumber:"
+            android:textStyle="bold"
+            android:layout_below="@id/edittextemail"/>
+
+
+        <TextView
+            android:id="@+id/textaddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Address:"
+            android:textStyle="bold"
+            android:layout_below="@id/edittextphonenumber"/>
+
+        <TextView
+            android:id="@+id/textusername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="User Name:"
+            android:textStyle="bold"
+            android:layout_below="@id/edittextaddress"/>
+
+        <EditText
+            android:id="@+id/edittextfullname"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:hint="Enter your Full Name"
+            android:layout_below="@id/textfullname"/>
+
+        <EditText
+            android:id="@+id/edittextemail"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:hint="Enter your  Email"
+            android:layout_below="@id/textemail"
+            android:inputType="textEmailAddress"/>
+
+        <EditText
+            android:id="@+id/edittextphonenumber"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:hint="Enter your Phone Number"
+            android:layout_below="@id/textphonenumber"
+            android:inputType="number"/>
+
+        <EditText
+            android:id="@+id/edittextaddress"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:hint="Enter your Address"
+            android:layout_below="@id/textaddress"/>
+
+        <EditText
+            android:id="@+id/edittextusername"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:hint="Enter new username"
+            android:layout_below="@id/textusername"/>
+
+        <Button
+            android:id="@+id/buttonupdate"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/edittextusername"
+            android:layout_marginTop="20dp"
+            android:text="Update"
+            android:textColor="#00000A"
+            android:background="#03A9F4"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+
+
+
+</ScrollView>

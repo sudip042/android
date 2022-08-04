@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\362880785dc0811aa1132398b722b4c1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bf52e370b958eba9e302cb7c4c50ddb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d4cd02a37e6c88f62c6d8a7d346a2849\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7af48639974dd99be8c66aad8390777b\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5411ea6445ac1337b071a82e568c3c65\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6da14aa20b108073ca3b94c30ad79f04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e60b212044b5784022b59c955b45d3ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5458158f21056ddfc93174c8f722224d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bdb52dc1752b82da3c513ddb731ca5e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\19fcb41201ad910a98167d55d5193c4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\74d182395de0d62993e5cc671528f588\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\48739a17a1b4742a129f2e8546836e80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8756943e08a42bf7d46a0d4692c68674\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93ea3da1e2e91d06d23306dd7d58309d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\03ee47fb3b11b5739a5df66154f6ac3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d37abe82fa7f95ef9ae15b8c115519bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ddde75911b59c9743d797addb86a7503\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6da10cd6a15cb8e025ce3b134dc68061\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\edc3a55c0259ed846d33d68fd9193807\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e810fe9476770cccf48f1dfb9fe183dc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e1811af011e43f30801b96c3aa32c51\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3107a7261c682e5925f57ebba0d50e74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\aec6a70e26b8f0de3bf6c3b54164e879\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\82930d5278e60dc69d813ae444090a86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d688a56c776480ad1f14f17dff81b976\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\4c7e76237f006f967ffebeaf95ad5004\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\01684d6931bcb7c8512a5b33787fd243\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fad20e0e4d8bd8af8e72ed6a4dd1bf82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2a50b59412ec2843cb6d3ef63e0c6ce1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9a4a9d65d7626cb0eb82be73589e8937\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\53797354ca3bf8cac932a53eecc2a0fd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b3ac78fd662b7feb8e2ba320e21e58ee\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.INTERNET
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.hardware.sensor.proximity
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:9:5-73
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:9:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:10:22-63
+application
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:12:5-40:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\362880785dc0811aa1132398b722b4c1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\362880785dc0811aa1132398b722b4c1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d4cd02a37e6c88f62c6d8a7d346a2849\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d4cd02a37e6c88f62c6d8a7d346a2849\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5411ea6445ac1337b071a82e568c3c65\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5411ea6445ac1337b071a82e568c3c65\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e810fe9476770cccf48f1dfb9fe183dc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e810fe9476770cccf48f1dfb9fe183dc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e1811af011e43f30801b96c3aa32c51\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e1811af011e43f30801b96c3aa32c51\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e810fe9476770cccf48f1dfb9fe183dc\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:19:9-44
+activity#com.example.bookcarservicing.Logout
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:20:19-41
+activity#com.example.bookcarservicing.Controllers.Show_Cars
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:21:19-56
+activity#com.example.bookcarservicing.Controllers.BookServicing
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:22:9-63
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:22:19-60
+activity#com.example.bookcarservicing.Controllers.UpdateUsers
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:23:19-58
+activity#com.example.bookcarservicing.Controllers.BookParts
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:24:19-56
+activity#com.example.bookcarservicing.Controllers.ShowClickedParts
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:25:9-66
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:25:19-63
+activity#com.example.bookcarservicing.Controllers.Show_Parts
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:26:9-60
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:26:19-57
+activity#com.example.bookcarservicing.Controllers.Dashboard
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:27:9-59
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:27:19-56
+activity#com.example.bookcarservicing.Controllers.Registration
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:28:9-62
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:28:19-59
+activity#com.example.bookcarservicing.Controllers.Login
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:29:9-55
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:29:19-52
+activity#com.example.bookcarservicing.Controllers.SplashScreen
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:noHistory
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:32:13-37
+	android:theme
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:31:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\362880785dc0811aa1132398b722b4c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\362880785dc0811aa1132398b722b4c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bf52e370b958eba9e302cb7c4c50ddb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bf52e370b958eba9e302cb7c4c50ddb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d4cd02a37e6c88f62c6d8a7d346a2849\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d4cd02a37e6c88f62c6d8a7d346a2849\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7af48639974dd99be8c66aad8390777b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7af48639974dd99be8c66aad8390777b\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5411ea6445ac1337b071a82e568c3c65\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5411ea6445ac1337b071a82e568c3c65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6da14aa20b108073ca3b94c30ad79f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6da14aa20b108073ca3b94c30ad79f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e60b212044b5784022b59c955b45d3ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e60b212044b5784022b59c955b45d3ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5458158f21056ddfc93174c8f722224d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5458158f21056ddfc93174c8f722224d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bdb52dc1752b82da3c513ddb731ca5e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bdb52dc1752b82da3c513ddb731ca5e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\19fcb41201ad910a98167d55d5193c4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\19fcb41201ad910a98167d55d5193c4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\74d182395de0d62993e5cc671528f588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\74d182395de0d62993e5cc671528f588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\48739a17a1b4742a129f2e8546836e80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\48739a17a1b4742a129f2e8546836e80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8756943e08a42bf7d46a0d4692c68674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8756943e08a42bf7d46a0d4692c68674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93ea3da1e2e91d06d23306dd7d58309d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93ea3da1e2e91d06d23306dd7d58309d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\03ee47fb3b11b5739a5df66154f6ac3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\03ee47fb3b11b5739a5df66154f6ac3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d37abe82fa7f95ef9ae15b8c115519bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d37abe82fa7f95ef9ae15b8c115519bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ddde75911b59c9743d797addb86a7503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ddde75911b59c9743d797addb86a7503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6da10cd6a15cb8e025ce3b134dc68061\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\6da10cd6a15cb8e025ce3b134dc68061\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\edc3a55c0259ed846d33d68fd9193807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\edc3a55c0259ed846d33d68fd9193807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e810fe9476770cccf48f1dfb9fe183dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e810fe9476770cccf48f1dfb9fe183dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e1811af011e43f30801b96c3aa32c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8e1811af011e43f30801b96c3aa32c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3107a7261c682e5925f57ebba0d50e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3107a7261c682e5925f57ebba0d50e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\aec6a70e26b8f0de3bf6c3b54164e879\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\aec6a70e26b8f0de3bf6c3b54164e879\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\82930d5278e60dc69d813ae444090a86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\82930d5278e60dc69d813ae444090a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d688a56c776480ad1f14f17dff81b976\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d688a56c776480ad1f14f17dff81b976\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\4c7e76237f006f967ffebeaf95ad5004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\4c7e76237f006f967ffebeaf95ad5004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\01684d6931bcb7c8512a5b33787fd243\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\01684d6931bcb7c8512a5b33787fd243\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fad20e0e4d8bd8af8e72ed6a4dd1bf82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\fad20e0e4d8bd8af8e72ed6a4dd1bf82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2a50b59412ec2843cb6d3ef63e0c6ce1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2a50b59412ec2843cb6d3ef63e0c6ce1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9a4a9d65d7626cb0eb82be73589e8937\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9a4a9d65d7626cb0eb82be73589e8937\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\53797354ca3bf8cac932a53eecc2a0fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\53797354ca3bf8cac932a53eecc2a0fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b3ac78fd662b7feb8e2ba320e21e58ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b3ac78fd662b7feb8e2ba320e21e58ee\AndroidManifest.xml:20:5-44
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+		ADDED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Book-Car-Servicing\app\src\main\AndroidManifest.xml

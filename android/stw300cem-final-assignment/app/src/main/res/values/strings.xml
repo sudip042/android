@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BookCarServicing</string>
+
+    <string-array name="locationselection">
+    <item>Hyundai Creta</item>
+    <item>Hyundai Tucson</item>
+    <item>Hyundai Aura</item>
+    <item>Hyundai Elite </item>
+
+</string-array>
+
+    <string-array name="servicing_location">
+        <item>Boudha Service Center</item>
+        <item>Lagankhel Service Center</item>
+        <item>Gangabu Service Center</item>
+        <item>Naxal Service Center</item>
+
+    </string-array>
+    <string name="title_activity_show_parts">ShowParts</string>
+</resources>

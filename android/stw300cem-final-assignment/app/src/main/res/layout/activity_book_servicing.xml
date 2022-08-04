@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Controllers.BookServicing">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="80dp"
+        android:background="#86F088">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginTop="5dp"
+            android:text="BOOK NOW"
+            android:textStyle="bold"
+            android:textSize="48sp"
+            android:textAlignment="center"
+            android:textColor="#181717"/>
+
+
+        <EditText
+            android:id="@+id/user_id"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="20dp"
+            android:background="#ffffff"
+            android:hint="userid"
+            android:paddingHorizontal="15dp"
+            android:singleLine="true"
+            android:textColor="#111111"
+            android:textColorHint="#9E9A9A"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="20dp"
+            android:background="#ffffff"
+            android:hint="Fullname"
+            android:paddingHorizontal="15dp"
+            android:singleLine="true"
+            android:textColor="#111111"
+            android:textColorHint="#9E9A9A"
+            android:textSize="16sp" />
+
+
+
+
+        <android.support.design.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="10dp"
+            android:layout_marginBottom="20dp">
+            <Spinner
+                android:id ="@+id/serviceLocation"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:entries="@array/servicing_location"
+
+                android:background="#ffffff"
+                android:paddingHorizontal="15dp"
+                android:dropDownWidth="wrap_content"
+                android:spinnerMode="dropdown"
+                android:textColor="#111111" />
+        </android.support.design.card.MaterialCardView>
+
+        <android.support.design.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:cardCornerRadius="10dp">
+            <Spinner
+                android:id ="@+id/carselection"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:entries="@array/locationselection"
+                android:layout_marginBottom="30dp"
+                android:background="#ffffff"
+                android:paddingHorizontal="15dp"
+                android:dropDownWidth="wrap_content"
+                android:spinnerMode="dropdown"
+                android:textColor="#111111" />
+
+        </android.support.design.card.MaterialCardView>
+
+        <EditText
+            android:id="@+id/address"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="#ffffff"
+            android:hint="Address"
+            android:paddingHorizontal="15dp"
+            android:singleLine="true"
+            android:textColor="#111111"
+            android:textColorHint="#9E9A9A"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/phone"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="#ffffff"
+            android:hint="Phone Number"
+            android:paddingHorizontal="15dp"
+            android:singleLine="true"
+            android:textColor="#111111"
+            android:textColorHint="#9E9A9A"
+            android:textSize="16sp" />
+
+
+        <EditText
+            android:id="@+id/dateselection"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="#ffffff"
+            android:hint="Select Booking Date"
+            android:paddingHorizontal="15dp"
+            android:singleLine="true"
+            android:textColor="#111111"
+            android:textColorHint="#9E9A9A"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btnBookNow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="#03A9F4"
+            android:text="BOOK"
+            android:textAllCaps="false"
+            android:textColor="#1F1E1E"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</ScrollView>
+

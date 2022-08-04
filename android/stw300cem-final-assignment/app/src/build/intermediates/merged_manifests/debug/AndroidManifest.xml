@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bookcarservicing"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.hardware.sensor.proximity" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity android:name="com.example.bookcarservicing.Logout" />
+        <activity android:name="com.example.bookcarservicing.Controllers.Show_Cars" />
+        <activity android:name="com.example.bookcarservicing.Controllers.BookServicing" />
+        <activity android:name="com.example.bookcarservicing.Controllers.UpdateUsers" />
+        <activity android:name="com.example.bookcarservicing.Controllers.BookParts" />
+        <activity android:name="com.example.bookcarservicing.Controllers.ShowClickedParts" />
+        <activity android:name="com.example.bookcarservicing.Controllers.Show_Parts" />
+        <activity android:name="com.example.bookcarservicing.Controllers.Dashboard" />
+        <activity android:name="com.example.bookcarservicing.Controllers.Registration" />
+        <activity android:name="com.example.bookcarservicing.Controllers.Login" />
+        <activity
+            android:name="com.example.bookcarservicing.Controllers.SplashScreen"
+            android:noHistory="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
